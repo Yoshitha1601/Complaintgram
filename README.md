@@ -15,7 +15,7 @@ Get free Gemini API key at: aistudio.google.com
 ## 🚨 The Problem
 Every day millions of Indians face broken roads, water shortages, 
 garbage overflow and power cuts. They complain on GHMC apps, 
-Twitter, WhatsApp groups — and nothing happens.
+Twitter, WhatsApp groups -and nothing happens.
 
 Why? Because complaints are:
 - Informal and unrouted
@@ -36,7 +36,7 @@ Pressure builds → Problem gets fixed**
 - Real complaints with proof attached
 - Upvote to show community support
 - Filter by city, category, severity
-- Live stats — total complaints, critical issues, upvotes
+- Live stats - total complaints, critical issues, upvotes
 
 ### 🤖 AI Analysis (Gemini powered)
 - Severity scoring 1-10 with reasoning
